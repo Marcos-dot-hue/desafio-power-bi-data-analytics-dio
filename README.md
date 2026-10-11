@@ -8,6 +8,20 @@ O desafio propõe modificar relatórios existentes, seguindo as orientações da
 
 Além das modificações propostas, foram desenvolvidas análises complementares de correlação, rentabilidade e eficiência comercial.
 
+## 🔄 Evolução do Relatório Original
+
+O projeto teve como ponto de partida três páginas previamente desenvolvidas no Power BI: **Sales, Profit e Report**.
+
+Essas páginas foram preservadas como base do relatório. Na página **Report**, foi realizado um ajuste pontual relacionado ao visual Radar Chart. Durante essa etapa, foram encontradas dificuldades de acesso ao Microsoft AppSource associadas à conta de usuário, impedindo a utilização do visual pretendido.
+
+A principal evolução deste desafio consistiu no desenvolvimento de três páginas adicionais:
+
+- **Data Analytics:** estatística descritiva, histograma e análise de faturamento por produto.
+- **Análise de Dispersão e Correlação:** estudo da associação entre unidades vendidas e lucro, utilizando o coeficiente de Pearson.
+- **Rentabilidade e Eficiência:** avaliação da margem de lucro e do lucro por unidade, permitindo comparar o desempenho financeiro dos produtos.
+
+Dessa forma, o projeto ampliou um relatório financeiro existente, incorporando recursos estatísticos e novas perspectivas de análise gerencial.
+
 ## 📈 Páginas do Relatório
 
 ### 1. Sales — Visão Geral de Vendas
@@ -27,7 +41,7 @@ Apresenta a distribuição do lucro por produto, segmento, país e trimestre, pe
 
 Reúne gráficos comparativos de vendas, lucro e vendas brutas, além de uma matriz de resultados trimestrais. 
 
-![Data Analytics](images/04-data-analytics.png)
+![Report de Vendas](images/03-report.png)
 
 ### 4. Data Analytics — Análise Estatística
 
